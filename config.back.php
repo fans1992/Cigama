@@ -3,7 +3,7 @@
 define('HTTP_SERVER', 'http://118.25.3.152:8001/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://118.25.3.152:8001');
+define('HTTPS_SERVER', 'http://118.25.3.152:8001/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/Cigama/catalog/');
